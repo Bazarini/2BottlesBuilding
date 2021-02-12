@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\BestBottleBuildingAlgorithm\BestBottleBuildingAlgorithm\bin\Debug\BestBottleBuildingAlgorithm.exe.config
+C:\Users\Alex\source\repos\BestBottleBuildingAlgorithm\BestBottleBuildingAlgorithm\bin\Debug\BestBottleBuildingAlgorithm.exe
+C:\Users\Alex\source\repos\BestBottleBuildingAlgorithm\BestBottleBuildingAlgorithm\bin\Debug\BestBottleBuildingAlgorithm.pdb
+C:\Users\Alex\source\repos\BestBottleBuildingAlgorithm\BestBottleBuildingAlgorithm\obj\Debug\BestBottleBuildingAlgorithm.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\BestBottleBuildingAlgorithm\BestBottleBuildingAlgorithm\obj\Debug\BestBottleBuildingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\BestBottleBuildingAlgorithm\BestBottleBuildingAlgorithm\obj\Debug\BestBottleBuildingAlgorithm.exe
+C:\Users\Alex\source\repos\BestBottleBuildingAlgorithm\BestBottleBuildingAlgorithm\obj\Debug\BestBottleBuildingAlgorithm.pdb
